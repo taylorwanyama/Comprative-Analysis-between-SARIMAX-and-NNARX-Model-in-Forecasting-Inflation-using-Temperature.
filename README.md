@@ -2,11 +2,11 @@
 ## Overview
 Inflation is one of the most critical economic indicators, influencing everything from daily household expenses to national fiscal policy. Forecasting it accurately is essential for:
 
-- Governments 
+- Governments (for policy planning)
 
-- Businesses 
+- Businesses (for pricing and budgeting)
 
-- Households 
+- Households (for financial decision-making)
 
 However, traditional forecasting methods like ARIMA often rely solely on past inflation data. What if we also consider external factors, like climate change?
 
@@ -79,10 +79,20 @@ The performance of both models was evaluated using three metrics:
 
 ---
 
-## ⚙️ How to Run
+## Dependencies
+
+To run this project, install the following libraries:
+
+```bash
+pip install pandas numpy seaborn matplotlib scikit-learn tensorflow statsmodel pmdarima keras itertools
+```
+
+## How to Run
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/inflation-forecasting-sarimax-nnarx.git
-cd inflation-forecasting-sarimax-nnarx
+git clone https://github.com/taylorwanyama/Comprative-Analysis-between-SARIMAX-and-NNARX-Model-in-Forecasting-Inflation-using-Temperature./edit/main/README.md
+
+## Author
+[Taylor Wanyama] 
