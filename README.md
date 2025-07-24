@@ -94,5 +94,3 @@ pip install pandas numpy seaborn matplotlib scikit-learn tensorflow statsmodel p
 ```bash
 git clone https://github.com/taylorwanyama/Comprative-Analysis-between-SARIMAX-and-NNARX-Model-in-Forecasting-Inflation-using-Temperature./edit/main/README.md
 
-## Author
-[Taylor Wanyama] 
